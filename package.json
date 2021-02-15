@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "copy-webpack-plugin": "^7.0.0",
     "webpack-dev-server": "^3.11.2"
   }
 }
